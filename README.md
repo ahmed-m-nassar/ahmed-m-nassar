@@ -36,9 +36,3 @@
 I am a Machine Learning and Data Scientist with experience in **NLP, MLOps, and data engineering**. I have built scalable AI pipelines, deployed ML models in production, and worked with large-scale datasets using modern cloud and on-prem infrastructure. Passionate about **RAG applications, LLM fine-tuning, and AI for business solutions**.  
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-m-nassar&show_icons=true&hide_border=true&theme=radical" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-m-nassar&layout=compact&hide_border=true&theme=radical" alt="Top Languages">
-</p>
